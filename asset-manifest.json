@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Kahzap/static/css/main.ca019e9d.chunk.css",
-    "main.js": "/Kahzap/static/js/main.b9bfa104.chunk.js",
-    "main.js.map": "/Kahzap/static/js/main.b9bfa104.chunk.js.map",
+    "main.js": "/Kahzap/static/js/main.f2fc7707.chunk.js",
+    "main.js.map": "/Kahzap/static/js/main.f2fc7707.chunk.js.map",
     "runtime-main.js": "/Kahzap/static/js/runtime-main.56e15af5.js",
     "runtime-main.js.map": "/Kahzap/static/js/runtime-main.56e15af5.js.map",
-    "static/js/2.855eda04.chunk.js": "/Kahzap/static/js/2.855eda04.chunk.js",
-    "static/js/2.855eda04.chunk.js.map": "/Kahzap/static/js/2.855eda04.chunk.js.map",
+    "static/js/2.27f36303.chunk.js": "/Kahzap/static/js/2.27f36303.chunk.js",
+    "static/js/2.27f36303.chunk.js.map": "/Kahzap/static/js/2.27f36303.chunk.js.map",
     "index.html": "/Kahzap/index.html",
-    "precache-manifest.f6165b53c889854cc2aab6ea990d34f2.js": "/Kahzap/precache-manifest.f6165b53c889854cc2aab6ea990d34f2.js",
+    "precache-manifest.90f15ce996056c45a5a38d63c88b0bcf.js": "/Kahzap/precache-manifest.90f15ce996056c45a5a38d63c88b0bcf.js",
     "service-worker.js": "/Kahzap/service-worker.js",
     "static/css/main.ca019e9d.chunk.css.map": "/Kahzap/static/css/main.ca019e9d.chunk.css.map",
-    "static/js/2.855eda04.chunk.js.LICENSE.txt": "/Kahzap/static/js/2.855eda04.chunk.js.LICENSE.txt"
+    "static/js/2.27f36303.chunk.js.LICENSE.txt": "/Kahzap/static/js/2.27f36303.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.56e15af5.js",
-    "static/js/2.855eda04.chunk.js",
+    "static/js/2.27f36303.chunk.js",
     "static/css/main.ca019e9d.chunk.css",
-    "static/js/main.b9bfa104.chunk.js"
+    "static/js/main.f2fc7707.chunk.js"
   ]
 }
