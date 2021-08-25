@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "226e7f395b9bfbee97e3a8a63c4e24e7",
+    "revision": "a558fd664b92d3e4da742b64a528270f",
     "url": "/Kahzap/index.html"
   },
   {
-    "revision": "84637d8f3f93a92f5158",
+    "revision": "ee3bc6a272b4152df867",
     "url": "/Kahzap/static/css/main.ca019e9d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Kahzap/static/js/2.0a821621.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "84637d8f3f93a92f5158",
-    "url": "/Kahzap/static/js/main.cab8c7e6.chunk.js"
+    "revision": "ee3bc6a272b4152df867",
+    "url": "/Kahzap/static/js/main.a17ec482.chunk.js"
   },
   {
     "revision": "79abd3d7c840c6dc63dd",
