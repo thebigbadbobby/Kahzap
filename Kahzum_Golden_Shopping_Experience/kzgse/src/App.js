@@ -11,10 +11,10 @@ import ItemPage from './pages/itemPage/index'
 // import ConfirmationPage from './pages/confirmOrderPage/index.js'
 import ErrorPage from './pages/404Page/index'
 import HomePage from './pages/HomePage/index'
-
+import { HashRouter } from "react-router-dom";
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <Switch>
         <Route path = '/' exact component={HomePage}/>
         <Route path ='/cart' component={ShoppingCartPage}/>
@@ -24,8 +24,7 @@ function App() {
         {/* <Route path ='/confirmation' component = {ConfirmationPage}/> */}
         <Route component={ErrorPage}/>
       </Switch>
-    </Router>
-    
+    </HashRouter>
   );
 }
 
