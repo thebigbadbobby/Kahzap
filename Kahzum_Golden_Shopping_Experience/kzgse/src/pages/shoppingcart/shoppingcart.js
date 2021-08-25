@@ -89,7 +89,7 @@ class ShoppingCartPage extends React.Component{
       // const store = buyItems[0].store
       // console.log(itemPayload)
       // this.props.history.replace('http://13.57.233.151/'+invoiceID)
-      // window.location.replace('http://localhost:3000/'+invoiceID)
+      window.location.replace('pay.kahzap.com/'+invoiceID)
       
       // if(this.state.name === "" || this.state.phoneNumber === ""){ //add this.state.email when its used
       //   alert("Please enter name")
